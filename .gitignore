@@ -28,7 +28,14 @@
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
+# /build/ is too aggressive, use /build/* to allow exceptions
+/build/*
+!/build/app/
+/build/app/*
+!/build/app/outputs/
+/build/app/outputs/*
+!/build/app/outputs/flutter-apk/
+/build/app/outputs/flutter-apk/*
 !/build/app/outputs/flutter-apk/app-release.apk
 /coverage/
 

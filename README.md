@@ -27,9 +27,8 @@ ExpiryGuard is an intelligent inventory management application built with **Flut
 
 | Home Dashboard | Item Details | Scan & OCR |
 |:---:|:---:|:---:|
-| *(Place Screenshot Here)* | *(Place Screenshot Here)* | *(Place Screenshot Here)* |
+| <img src="screenshots/home.jpeg" width="200" /> | <img src="screenshots/details.jpeg" width="200" /> | <img src="screenshots/scan.jpeg" width="200" /> |
 
-> *Tip: Add actual screenshots from the `walkthrough.md` results here!*
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +48,7 @@ ExpiryGuard is an intelligent inventory management application built with **Flut
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/expiryguard.git
+   git clone https://github.com/KuroBapak/Final-Projects.git
    cd expiryguard
    ```
 
